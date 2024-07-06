@@ -1,7 +1,10 @@
+import Hero from "./components/Hero/Hero"
 
 const App = () => {
   return (
-    <div className="bg-red-600">App</div>
+    <div className="overflow-x-hidden">
+      <Hero />
+    </div>
   )
 }
 
