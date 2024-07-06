@@ -17,7 +17,7 @@ const Hero = () => {
 
                         {/* left section */}
                         <div className="text-lightOrange mt-[100px] md:mt-0 p-4 space-y-28">
-                            <h1 className='text-7xl font-bold leading-tight ml-14'>Thomas Coffee Shop</h1>
+                            <h1 className='text-7xl font-bold leading-tight ml-14'>Thomas Coffee Corner</h1>
                             <div className='relative' >
                                 <div className="relative z-10 space-y-4">
                                     <h1 className='text-2xl'>Black Lifestyle Lovers</h1>
@@ -51,7 +51,7 @@ const Hero = () => {
 
                         {/* right section */}
                         <div className="text-lightOrange mt-[100px] md:mt-0 p-4 space-y-28">
-                            <h1 className='opacity-0 text-7xl font-bold leading-tight ml-14'>Thomas Coffee Shop</h1>
+                            <h1 className='opacity-0 text-7xl font-bold leading-tight ml-14'>Thomas Coffee Corner</h1>
                             <div className='relative' >
                                 <div className="relative z-10 space-y-4">
                                     <h1 className='text-2xl'>Black Tumbler</h1>
